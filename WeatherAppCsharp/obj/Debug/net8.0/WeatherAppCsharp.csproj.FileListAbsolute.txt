@@ -1,0 +1,14 @@
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\bin\Debug\net8.0\WeatherAppCsharp.exe
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\bin\Debug\net8.0\WeatherAppCsharp.deps.json
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\bin\Debug\net8.0\WeatherAppCsharp.runtimeconfig.json
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\bin\Debug\net8.0\WeatherAppCsharp.dll
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\bin\Debug\net8.0\WeatherAppCsharp.pdb
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.AssemblyInfoInputs.cache
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.AssemblyInfo.cs
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.dll
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\refint\WeatherAppCsharp.dll
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.pdb
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\WeatherAppCsharp.genruntimeconfig.cache
+C:\Users\Instruktor.P-02468\Documents\WeatherAppCsharp\WeatherAppCsharp\obj\Debug\net8.0\ref\WeatherAppCsharp.dll
